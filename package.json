@@ -10,15 +10,15 @@
     "posthtml": "posthtml ./examples/gh-pages/index.html -o ./examples/gh-pages/index.html -c examples/posthtml.config.js"
   },
   "dependencies": {
-    "elm-test": "0.19.1",
-    "htmlnano": "0.2.8",
-    "jscodeshift": "0.11.0",
-    "posthtml-cli": "0.9.1",
-    "posthtml-content": "0.0.3",
+    "elm-test": "0.19.1-revision17",
+    "htmlnano": "3.0.0",
+    "jscodeshift": "17.3.0",
+    "posthtml-cli": "0.10.0",
+    "posthtml-content": "2.1.2",
     "posthtml-favicons": "1.4.0",
     "posthtml-head-elements": "0.5.1",
     "posthtml-style-to-file": "0.2.0",
     "prepack": "0.2.54",
-    "uglify-js": "3.12.8"
+    "uglify-js": "3.19.3"
   }
 }
